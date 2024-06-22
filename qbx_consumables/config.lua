@@ -31,7 +31,7 @@ return {
     consumables = {
         ---@type table<string, consumable>
         food = {
-            sandwich = {
+            burger = {
                 min = 35,
                 max = 54,
                 stressRelief = {
@@ -67,7 +67,7 @@ return {
 
         ---@type table<string, consumable>
         drink = {
-            water_bottle = {
+            water = {
                 min = 35,
                 max = 54,
                 stressRelief = {
